@@ -28,8 +28,8 @@ a {
 }
 
 .background-hero {
-    background-image: url(asset/img/background-florals-botanicals-vibrant-bright-wallpaper_859483-1360920.avif)
-    height 130vh ;
+    background-image: url(asset/img/background-florals-botanicals-vibrant-bright-wallpaper_859483-1360920.avif);
+    height 130vh: ;
     background-position : center;
     background-repeat : no-repeat;
     background-size : cover;
